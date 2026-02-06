@@ -46,8 +46,6 @@ R1: We will use MD5 for encrypting all passwords and GitHub API keys.
 
 ## Screenshots
 
-Place your screenshots in `screenshots/` and update the filenames if needed.
-
 ![Unit tests output](screenshots/crypto_policy_checker_test.png)
 ![Program output](screenshots/crypto_policy_checker_run.png)
 
